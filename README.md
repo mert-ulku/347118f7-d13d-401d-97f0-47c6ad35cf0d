@@ -1,14 +1,10 @@
-# ntt-fe
+## Live Demo
 
-This template should help get you started developing with Vue 3 in Vite.
+[Netlify]https://comforting-squirrel-e53dd7.netlify.app/)
 
-## Recommended IDE Setup
+## About the assignment
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Since an API wasn't provided, i took initiative and used (https://swapi.dev/) as my data source. To meet some of the requirements of the assignment, i have added some extra fields such as price and in stock to the data upon the initial API request.
 
 ## Project Setup
 
@@ -20,16 +16,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```

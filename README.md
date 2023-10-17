@@ -1,6 +1,6 @@
 ## Live Demo
 
-[Netlify]https://comforting-squirrel-e53dd7.netlify.app/)
+[Netlify](https://comforting-squirrel-e53dd7.netlify.app/)
 
 ## About the assignment
 

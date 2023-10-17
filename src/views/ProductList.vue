@@ -243,4 +243,8 @@ function handleFinish(values) {
   align-items: center;
   justify-content: space-between;
 }
+
+.ant-table-wrapper {
+  min-height: 705px;
+}
 </style>
